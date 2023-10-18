@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "330806770641",
+    "project_id": "cyberapp-2b1ec",
+    "storage_bucket": "cyberapp-2b1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330806770641:android:d37b831fbac99e80827ef0",
+        "android_client_info": {
+          "package_name": "com.example.cyberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330806770641-n3nrujm823kg4j762501dmb2h5k87qpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ZkBX1F6hXWSGu5PqTf0evih_kG9WDBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330806770641-n3nrujm823kg4j762501dmb2h5k87qpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330806770641-tcaggh45apsj5lpp8lhfk5plmvdli7pi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyberdefender"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
